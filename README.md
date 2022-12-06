@@ -7,3 +7,7 @@ Day4:
   Intersection of two strings
   Set matrixs to zero
   Linked list cycle
+
+day5:
+  Most repeated value in the array
+  
