@@ -11,3 +11,11 @@ Day4:
 day5:
   Most repeated value in the array
   
+Day6:
+  Missed
+  
+ Day7:
+  Majority Element II
+  Intersection of 2 linked lists
+  Happy Number
+  
