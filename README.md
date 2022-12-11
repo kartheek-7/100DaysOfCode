@@ -1,3 +1,6 @@
+Missed Days: 2,6,9
+
+
 # 100DaysOfCode
 Day1: 
   Nearest Highest Palindrome of a given number
