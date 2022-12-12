@@ -7,6 +7,9 @@ Day10:
   Length of last word
   Rotate Array
   Length of last word
+  Reverse Linked List
+  Add Digits
+  Word Pattern
 
 Day1: 
   Nearest Highest Palindrome of a given number
