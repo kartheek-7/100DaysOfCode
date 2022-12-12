@@ -6,7 +6,6 @@ Missed Days: 2,6,9
 Day10:
   Length of last word
   Rotate Array
-  Length of last word
   Reverse Linked List
   Add Digits
   Word Pattern
