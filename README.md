@@ -11,6 +11,7 @@ Day10:
   Rotate Array
   Reverse Linked List
   Add Digits
+  Rotating a linked list
   Word Pattern
 
 Day1: 
@@ -39,5 +40,3 @@ Day8:
   
  Day9:
   Missed
- Day10:
-  Rotating a linked list
