@@ -3,6 +3,9 @@ Missed Days: 2,6,9
 
 # 100DaysOfCode
 
+Day12:
+  Multiply Strings
+
 Day11:
   Rotate Image(48)
 
