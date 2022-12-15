@@ -3,6 +3,9 @@ Missed Days: 2,6,9
 
 # 100DaysOfCode
 
+Day13:
+  GameofLife(289)
+
 Day12:
   Multiply Strings
 
