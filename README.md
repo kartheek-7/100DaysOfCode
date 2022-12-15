@@ -5,6 +5,7 @@ Missed Days: 2,6,9
 
 Day13:
   GameofLife(289)
+  Bulls&Cows(299)
 
 Day12:
   Multiply Strings
