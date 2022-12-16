@@ -3,6 +3,9 @@ Missed Days: 2,6,9
 
 # 100DaysOfCode
 
+Day14:
+  Nth digit(400)
+
 Day13:
   GameofLife(289)
   Bulls&Cows(299)
