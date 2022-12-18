@@ -3,6 +3,12 @@ Missed Days: 2,6,9
 
 # 100DaysOfCode
 
+Day16:
+  Find Closet number to the zero
+
+Day15:
+  Did but Not got the answer
+
 Day14:
   Nth digit(400)
 
