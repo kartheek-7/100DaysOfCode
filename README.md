@@ -3,6 +3,9 @@ Missed Days: 2,6,9
 
 # 100DaysOfCode
 
+Day17:
+  Keys and Rooms
+
 Day16:
   Find Closet number to the zero
 
