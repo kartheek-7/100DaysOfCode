@@ -1,7 +1,14 @@
-Missed Days: 2,6,9
+Missed Days: 2,6,9,18,19
 
 
 # 100DaysOfCode
+
+Day20:
+  largest 3same digit number
+
+Day19:MESSED 
+
+Day18:MISSED
 
 Day17:
   Keys and Rooms
