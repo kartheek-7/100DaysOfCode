@@ -3,10 +3,13 @@ Missed Days: 2,6,9,18,19
 
 # 100DaysOfCode
 
+Day21:
+  ZigZag Problem
+
 Day20:
   largest 3same digit number
 
-Day19:MESSED 
+Day19:MISSED 
 
 Day18:MISSED
 
