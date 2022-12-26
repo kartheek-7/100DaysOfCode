@@ -1,7 +1,39 @@
-Missed Days: 2,6,9
+Missed Days: 2,6,9,18,19
 
 
 # 100DaysOfCode
+
+Day23:
+  Trees
+
+Day22:
+  3sum
+
+Day21:
+  ZigZag Problem
+
+Day20:
+  largest 3same digit number
+
+Day19:MISSED 
+
+Day18:MISSED
+
+Day17:
+  Keys and Rooms
+
+Day16:
+  Find Closet number to the zero
+
+Day15:
+  Did but Not got the answer
+
+Day14:
+  Nth digit(400)
+
+Day13:
+  GameofLife(289)
+  Bulls&Cows(299)
 
 Day12:
   Multiply Strings
