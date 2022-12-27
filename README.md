@@ -3,6 +3,9 @@ Missed Days: 2,6,9,18,19
 
 # 100DaysOfCode
 
+Day24:
+   bst
+
 Day23:
   Trees
 
