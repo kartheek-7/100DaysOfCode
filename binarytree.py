@@ -31,12 +31,12 @@ class BSTree():
     def inorder_BST(root):
         ele=[]
         if root.left:
-            ele+=inorder_BST(root.left)
+            ele+=root.left.inorder_BST()
             
         ele.append(root.data)
         
         if root.right:
-            ele+=inorder_BST(root.right)
+            ele+=root.right.inorder_BST()
             
         return ele     
             
