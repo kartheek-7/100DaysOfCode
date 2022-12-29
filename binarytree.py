@@ -28,17 +28,34 @@ class BSTree():
             if self.left==ele:
                 pass
     
-    def inorder_BST(root):
+    def inorder_BST(self):
         ele=[]
-        if root.left:
-            ele+=inorder_BST(root.left)
+        if self.left:
+            ele+=self.left.inorder_BST()
             
-        ele.append(root.data)
+        ele.append(self.data)
         
-        if root.right:
-            ele+=inorder_BST(root.right)
+        if self.right:
+            ele+=self.right.inorder_BST()
             
-        return ele     
+        return ele
+    
+    def search_ele(self,val):
+        
+        if self.data==val:
+            return True
+        if self.data>val:
+            if self.left:
+                return self.left.search_ele(val)
+            else:
+                return False
+            
+        else:
+            if self.right:
+                return self.right.search_ele(val)
+            else:
+                return False
+        
             
 
 def construct_BST(mat):
@@ -55,7 +72,7 @@ def construct_BST(mat):
 if __name__=='__main__':
     ele=[17,4,20,1,9,18,23,34]
     root=construct_BST(ele)
-    root.inorder_BST()
-    
+    print(root.inorder_BST())
+    print(root.search_ele(23))
     
         
