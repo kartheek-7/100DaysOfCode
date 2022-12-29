@@ -30,13 +30,23 @@ class BSTree():
     
     def inorder_BST(self):
         ele=[]
+<<<<<<< HEAD
         if self.left:
             ele+=self.left.inorder_BST()
+=======
+        if root.left:
+            ele+=root.left.inorder_BST()
+>>>>>>> 22f18fc2cca5fbfc818ac3fb61020a6f545498f7
             
         ele.append(self.data)
         
+<<<<<<< HEAD
         if self.right:
             ele+=self.right.inorder_BST()
+=======
+        if root.right:
+            ele+=root.right.inorder_BST()
+>>>>>>> 22f18fc2cca5fbfc818ac3fb61020a6f545498f7
             
         return ele
     
