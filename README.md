@@ -3,6 +3,9 @@ Missed Days: 2,6,9,18,19,24
 
 # 100DaysOfCode
 
+Day28:(1/1/23)
+  BST-min,max,preorder,postorder,number of elements in bst
+
 Day27:
   BST
 
