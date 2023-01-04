@@ -4,7 +4,7 @@ Missed Days: 2,6,9,18,19,24
 # 100DaysOfCode
 
 Day31(4/01/23):
-  Unity
+  Unity ang RangeSum
 
 Day30:
   Unity
